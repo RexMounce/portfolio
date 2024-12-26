@@ -1,0 +1,6 @@
+console.log("lets build a pyramid")
+console.log(   "#")
+console.log(  "###")
+console.log( "#####")
+console.log("#######")
+console.log("#########")
